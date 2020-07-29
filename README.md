@@ -26,3 +26,5 @@ This is a collection of materials that can help you learn frontend development. 
 ### Basic tutorials
 - [JavaScript for absolute Beginners](http://opentechschool.github.io/js-beginners-1/) Learn the basics in a day or two - what are variables, objects, arrays, loops, functions and how to use all that
 - [freeCodeCamp](https://www.freecodecamp.org/learn/) Go through the 300 hours JavaScript Algorithms and Data Structures Certification to get a solid JavaScript foundation
+### Books (available online)
+- [Eloquent JavaScript](https://eloquentjavascript.net/) A book about JavaScript programming, covering all the basic and a lot of advanced topics.
