@@ -4,6 +4,7 @@ This is a collection of materials that can help you learn frontend development. 
 ## <a name="content"></a> Content
 * [HTML & CSS](#htmlcss)
 * [Javascript](#javascript)
+* [General Computer Science](#generalcs)
 
 ## <a name="htmlcss"></a> Html & CSS
 ### Basic tutorials
@@ -28,3 +29,6 @@ This is a collection of materials that can help you learn frontend development. 
 - [freeCodeCamp](https://www.freecodecamp.org/learn/) Go through the 300 hours JavaScript Algorithms and Data Structures Certification to get a solid JavaScript foundation
 ### Books (available online)
 - [Eloquent JavaScript](https://eloquentjavascript.net/) A book about JavaScript programming, covering all the basic and a lot of advanced topics.
+
+## <a name="generalcs"></a> General Computer Science
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) An introduction to the intellectual enterprises of computer science and the art of programming.
