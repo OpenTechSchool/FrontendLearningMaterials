@@ -19,6 +19,7 @@ This is a collection of materials that can help you learn frontend development. 
 
 ### Flexbox
 - [Flexbox Froggy](https://flexboxfroggy.com/) A fun little game to learn how to define use Flexbox
+- [Flexbox Defense](http://www.flexboxdefense.com/) Another fun little game that teaches you Flexbox in the form of a Tower Defense Game
 - [What the Flexbox?!](https://flexbox.io/) A simple 20 video course that will help you master Flexbox by Wes Bos
 
 ## <a name="javascript"></a> JavaScript
