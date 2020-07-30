@@ -13,6 +13,9 @@ This is a collection of materials that can help you learn frontend development. 
 - [The Odin Project: Front End Only](https://www.theodinproject.com/tracks/front-end-only) A complete course to learn frontend development including Web dev 101, HTML&CSS, JavaScript and how to get hired after that
 - [MDN: Learn web development](https://developer.mozilla.org/en-US/docs/Learn) Mozilla Developer Networks "Learn web development" gives you aa structured introduction into a ton of web development topics
 
+### Selectors
+- [CSS Diner](https://flukeout.github.io/) Learn about how CSS selectors work by putting food on plates
+
 ### CSS Grid
 - [CSS Grid Garden](http://cssgridgarden.com/) A fun little game to learn how to define grids with CSS grid and how to place elements in that grid
 - [Learn CSS Grid](https://learncssgrid.com/) A guide to help you better understand and learn Grid
