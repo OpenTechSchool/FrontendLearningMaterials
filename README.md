@@ -35,3 +35,8 @@ This is a collection of materials that can help you learn frontend development. 
 
 ## <a name="generalcs"></a> General Computer Science
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) An introduction to the intellectual enterprises of computer science and the art of programming.
+
+### <a name="exercices"></a> Exercices references
+- [CodeWars](https://www.codewars.com/) is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
+- [Hacker Rank](https://www.hackerrank.com/) is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere!
+- [Edabit](https://edabit.com/) simulates what programming is like in the real world while removing any tedious, non-educational aspects. We add simple game mechanics to make the learning process fun and addictive. Gain XP, unlock achievements and level up. You’ll spend hours completing challenges and it won't even feel like work.
